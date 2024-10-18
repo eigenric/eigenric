@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ricardo (eigenric)
 
-<!--
-**eigenric/eigenric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mathematician and Computer Scientist (soon)
 
-Here are some ideas to get you started:
+I'm currently finishing my **Double Degree in Mathematics and Computer Engineering**, passionate about solving problems with **programming** and **data analysis**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on my [**Bachelor Thesis**](http://github.com/eigenric/TFG) using **Transformer models** for synthetic IoT data generation.
+
+### 🌟 Skills
+
+- **Languages**: Python, C++, Rust, LaTeX
+- **DevOps**: Git, CI/CD
+- **Machine Learning**: scikit-learn, pandas, matplotlib
+  
+## My stats
+
+[![eigenric's github stats](https://github-readme-stats.vercel.app/api?username=eigenric&show_icons=true&title_color=a12c23&icon_color=d72d20&text_color=000000&bg_color=efefef&border_color=1f1f1f)](https://github.com/eigenric)
